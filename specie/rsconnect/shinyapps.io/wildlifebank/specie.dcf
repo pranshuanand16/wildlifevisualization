@@ -1,0 +1,13 @@
+name: specie
+title: specie
+username:
+account: wildlifebank
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9106712
+bundleId: 7217123
+url: https://wildlifebank.shinyapps.io/specie/
+when: 1684096495.21789
+lastSyncTime: 1684096495.2179
+asMultiple: FALSE
+asStatic: FALSE

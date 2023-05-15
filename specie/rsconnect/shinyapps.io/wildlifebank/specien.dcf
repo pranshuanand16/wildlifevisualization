@@ -1,0 +1,13 @@
+name: specien
+title: specien
+username:
+account: wildlifebank
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9106748
+bundleId: 7217430
+url: https://wildlifebank.shinyapps.io/specien/
+when: 1684107022.9066
+lastSyncTime: 1684107022.90662
+asMultiple: FALSE
+asStatic: FALSE
